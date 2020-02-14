@@ -1,4 +1,6 @@
-# Publications
+layout: page
+title: "Publications"
+permalink: https://lsoussan.github.io/publications
 
 @article{cohen2019looking,
   title={Looking beyond the face area: lesion network mapping of prosopagnosia},
