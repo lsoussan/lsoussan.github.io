@@ -9,8 +9,8 @@ migraine to a common brain network. Brain. 2020 Feb 1;143(2):541-553. doi:
 10.1093/brain/awz405.
 
 
-Cohen AL, Soussand L, Corrow SL, Martinaud O, Barton JJS, Fox MD. Looking
-beyond the face area: lesion network mapping of prosopagnosia. Brain. 2019 Dec
+Cohen AL, Soussand L, Corrow SL, Martinaud O, Barton JJS, Fox MD. *Looking
+beyond the face area: lesion network mapping of prosopagnosia.* Brain. 2019 Dec
 1;142(12):3975-3990. doi: 10.1093/brain/awz332.
 
 
