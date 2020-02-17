@@ -30,7 +30,7 @@ github_username:  lsoussan
 
 
 # Build settings
-theme: minima
+theme: jekyll-theme-architect
 plugins:
   - jekyll-feed
 
